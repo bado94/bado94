@@ -14,6 +14,7 @@ I am a Cybersecurity enthusiast focused on defensive operations, network securit
 
 ### 📫 Let's Connect
 - **Email:** [Badi.bennour@outlook.com](mailto:Badi.bennour@outlook.com)
+- **LinkedIn:** https://www.linkedin.com/in/badibennour/
 <!---
 bado94/bado94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
